@@ -9,7 +9,7 @@ global.ytname = "YT: Hacktivist Hive"
 global.socialm = "GitHub: DeeCeeXxx"
 global.location = "Nigeria"
 
-global.ownernumber = '2349066528353'  //creator number
+global.ownernumber = '2348120549697'  //creator number
 global.ownername = '🐛D A V I D' //owner name
 global.botname = 'Thomas Shelby ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
 
